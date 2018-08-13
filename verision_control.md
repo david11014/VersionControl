@@ -88,6 +88,12 @@ Git
 
 ---
 
+
+# Git ≠ GitHub!!
+
+
+---
+
 config git
 ---
 
@@ -195,12 +201,21 @@ git push
 
 ```
 git branch <branch_name>
+
+$ git checkout master
+$ git merge <branch_name>
 ```
 
 ---
 
 ![](https://i.imgur.com/FsPmI8P.png)
 
+---
+
+### GitHub Desktop
+---
+
+![](https://i.imgur.com/jEf6opX.png)
 
 ---
 
