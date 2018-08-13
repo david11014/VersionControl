@@ -1,12 +1,8 @@
 
-
-# 版本控制、git、github
-
----
-
+                              
 ## 版本控制(Version control)
 
-----
+---
 
 ## 這是什麼?
 ## What's that?
@@ -37,7 +33,7 @@
 
 ----
 
-# You may use this to record code
+# You may use this to record change
 
 ----
 
@@ -80,13 +76,13 @@
 ---
 
 Git
-----
+---
 
 * Created by Linus Torvalds in 2005 for development of the Linux kernel.
 * It's a distributed version control systwm.
 * Git is free and open source software distributed under the terms of the GNU General Public License version 2.
 
----
+----
 
 
 # Git ≠ GitHub!!
@@ -102,7 +98,7 @@ git config --global user.email "david@vr.me.ncku.edu.tw"
 git config --global user.name "david"
 ```
 
----
+----
 
 ## Get command's description  
 
@@ -110,7 +106,7 @@ git config --global user.name "david"
 git help <command>
 ```
 
----
+----
 
 ### Initialize working folder
 ---
@@ -119,7 +115,7 @@ git help <command>
 git init
 ```
 
----
+----
 
 ### check the working folder status 
 ---
@@ -129,7 +125,7 @@ git status
 ```
 
 
----
+----
 
 ### Save the change
 ---
@@ -137,7 +133,7 @@ git status
 ![](https://i.imgur.com/oRiuiRZ.png)
 
 
----
+----
 
 ### Save the change
 ---
@@ -149,27 +145,27 @@ git commit
 git commit -m "commit log"
 ```
 
----
+----
 
 ### How to write commit log ?
 
 [yo](https://denny.one/git-slide/img/yo.png)
 
----
+----
 
 ### More easy to commit file
----
+----
 
 ![](https://i.imgur.com/FDQejt6.png)
 
----
+----
 
 ### Get or push file from other place
 ---
 
 ![](https://i.imgur.com/5cs7YeS.png)
 
----
+----
 
 ### Copy otherones project
 ---
@@ -178,7 +174,7 @@ git commit -m "commit log"
 git clone <url>
 ```
 
----
+----
 
 ### Fetch project from other otherplace
 ---
@@ -209,25 +205,38 @@ $ git checkout master
 $ git merge <branch_name>
 ```
 
----
+----
 
 ![](https://i.imgur.com/FsPmI8P.png)
 
 ---
 
+### [GitHub](https://github.com/)
+
+![](https://octodex.github.com/images/original.png =500x500)
+
+----
+
 ### GitHub Desktop
----
+----
 
 ![](https://i.imgur.com/jEf6opX.png)
 
+----
+
+### [GitHub Pages](https://pages.github.com/)
 ---
 
+[this slide](https://github.com/david11014/VersionControl)
+
 ---
+
 
 ### GitLab
 
 [vr GitLAb](http://140.116.71.117:8090)
 
+---
 
 ### Refrance
 ---
