@@ -114,27 +114,37 @@ git init
 
 ---
 
+## check the working folder status 
+
+```
+git status
+```
+
+---
+
+## Save the change  
+
+![](https://i.imgur.com/oRiuiRZ.png)
+
+
+---
+
 ## Save the change  
 
 ```
 git add <file>
 git commit
+git commit -m "commit log"
 ```
 
 ---
 
-![](https://i.imgur.com/oRiuiRZ.png)
+## How to write commit log?
+[yo](https://denny.one/git-slide/img/yo.png)
 
 ---
 
-## git status  
+## More easy to commit file
 
-check the working folder status
-
----
-
-
-
-
-
+![](https://i.imgur.com/FDQejt6.png)
 
