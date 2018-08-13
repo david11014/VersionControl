@@ -201,7 +201,10 @@ git push
 
 ```
 git branch <branch_name>
-
+```
+### Marge the branch
+---
+```
 $ git checkout master
 $ git merge <branch_name>
 ```
@@ -219,7 +222,15 @@ $ git merge <branch_name>
 
 ---
 
+---
+
+### GitLab
+
+[vr GitLAb](http://140.116.71.117:8090)
+
+
 ### Refrance
 ---
 
-[Git - Denny Huang](https://denny.one/git-slide)
+* [Git - Denny Huang](https://denny.one/git-slide)
+* [git-scm.com](https://git-scm.com/)
