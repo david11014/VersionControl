@@ -98,21 +98,24 @@ git config --global user.name "david"
 
 ---
 
-## Get command's description
+## Get command's description  
+
 ```
 git help <command>
 ```
 
 ---
 
-## Initialize working folder
+## Initialize working folder  
+
 ```
 git init
 ```
 
 ---
 
-## Save the change
+## Save the change  
+
 ```
 git add <file>
 git commit
@@ -124,7 +127,8 @@ git commit
 
 ---
 
-## git status
+## git status  
+
 check the working folder status
 
 ---
