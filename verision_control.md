@@ -163,4 +163,48 @@ git commit -m "commit log"
 
 ![](https://i.imgur.com/5cs7YeS.png)
 
+---
 
+### Copy otherones project
+---
+
+```
+git clone <url>
+```
+
+---
+
+### Fetch project from other otherplace
+---
+
+```
+git pull
+```
+
+### Upload project
+---
+
+```
+git push
+```
+
+---
+
+### Create a branch
+---
+
+```
+git branch <branch_name>
+```
+
+---
+
+![](https://i.imgur.com/FsPmI8P.png)
+
+
+---
+
+### Refrance
+---
+
+[Git - Denny Huang](https://denny.one/git-slide)
