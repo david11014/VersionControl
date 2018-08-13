@@ -4,7 +4,7 @@
 
 ---
 
-## 這是什麼?
+## 是什麼?
 ## What's that?
 
 ----
@@ -23,13 +23,13 @@
 
 ----
 
-![](https://i.imgur.com/70J748O.png =425x542)
+![](https://i.imgur.com/x7t9n9S.png)
 
 ###### [ref](https://www.facebook.com/photo.php?fbid=1592343944115344)
 
 ----
 
-# (╯‵□′)╯︵┴─┴
+## (╯‵□′)╯︵┴─┴
 
 ----
 
@@ -37,7 +37,7 @@
 
 ----
 
-![](https://i.imgur.com/JImfuzv.png =1088x386)
+![](https://i.imgur.com/JImfuzv.png)
 
 ----
 
@@ -45,7 +45,7 @@
 
 ----
 
-![](https://i.imgur.com/azOpOk9.png=1088x572)
+![](https://i.imgur.com/azOpOk9.png)
 ###### [ref: ptt](https://www.ptt.cc/bbs/Soft_Job/M.1524799027.A.895.html)
 
 ---
@@ -163,7 +163,7 @@ git commit -m "commit log"
 ### Get or push file from other place
 ---
 
-![](https://i.imgur.com/5cs7YeS.png)
+![](https://i.imgur.com/XY2SsGW.png)
 
 ----
 
@@ -207,13 +207,14 @@ $ git merge <branch_name>
 
 ----
 
-![](https://i.imgur.com/FsPmI8P.png)
+![](https://i.imgur.com/E8dikIC.png)
+
 
 ---
 
 ### [GitHub](https://github.com/)
 
-![](https://octodex.github.com/images/original.png =500x500)
+![](https://i.imgur.com/vI8WurX.png)
 
 ----
 
@@ -233,6 +234,8 @@ $ git merge <branch_name>
 
 
 ### GitLab
+
+![](https://i.imgur.com/48T8SBm.png)
 
 [vr GitLAb](http://140.116.71.117:8090)
 
