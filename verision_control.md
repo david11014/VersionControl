@@ -106,7 +106,8 @@ git help <command>
 
 ---
 
-## Initialize working folder  
+### Initialize working folder
+---
 
 ```
 git init
@@ -114,37 +115,52 @@ git init
 
 ---
 
-## check the working folder status 
+### check the working folder status 
+---
 
 ```
 git status
 ```
 
+
 ---
 
-## Save the change  
+### Save the change
+---
 
 ![](https://i.imgur.com/oRiuiRZ.png)
 
 
 ---
 
-## Save the change  
+### Save the change
+---
 
 ```
 git add <file>
+git rm <file>
 git commit
 git commit -m "commit log"
 ```
 
 ---
 
-## How to write commit log?
+### How to write commit log ?
+
 [yo](https://denny.one/git-slide/img/yo.png)
 
 ---
 
-## More easy to commit file
+### More easy to commit file
+---
 
 ![](https://i.imgur.com/FDQejt6.png)
+
+---
+
+### Get or push file from other place
+---
+
+![](https://i.imgur.com/5cs7YeS.png)
+
 
