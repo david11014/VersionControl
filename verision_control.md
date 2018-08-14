@@ -190,7 +190,7 @@ git pull
 git push
 ```
 
----
+----
 
 ### Create a branch
 ---
@@ -238,6 +238,10 @@ $ git merge <branch_name>
 ![](https://i.imgur.com/48T8SBm.png)
 
 [vr GitLAb](http://140.116.71.117:8090)
+
+---
+
+# Thank you
 
 ---
 
