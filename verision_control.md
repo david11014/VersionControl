@@ -55,7 +55,7 @@
 ---
 
 # Version control
-### git、SVN、CVS、...etc
+### Git、SVN、CVS、...etc
 
 ----
 
